@@ -19,9 +19,10 @@ header nav {
 little test:
 h3#homelink a{
   text-decoration: none;
-}*/
+}
+?*/
 
-header a:hover{
+#header a:hover{
   text-decoration: underline;
 }
 
