@@ -16,7 +16,7 @@ header nav {
 }
 
 /*new*
-little test
+little test:
 h3#homelink a{
   text-decoration: none;
 }*/
@@ -71,6 +71,35 @@ div.jumbotron {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
+}
+
+/*new*/
+div.questions{
+  padding: 0 20px 0 20px;
+}
+
+div.questions h4{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+div.questions p{
+  margin-top: 30px;
+}
+
+div.questions p a.btn{
+  border-radius:5px;
+  color:#FFF;
+  background-color: #007bff;
+  border-color:#007bff;
+  text-decoration: none;
+  padding:18px;
+  font-size: 20px;
+}
+
+div.questions p a.btn:hover{
+  ackground-color: #0069d9;
+  border-color:#0069d9;
 }
 
 footer{
