@@ -16,6 +16,10 @@ header nav {
 }
 
 /*new*/
+h3#homelink a{
+  text-decoration: none;
+}
+
 h3#homelink a:hover{
   text-decoration: underline;
 }
